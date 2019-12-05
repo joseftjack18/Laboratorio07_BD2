@@ -1,1 +1,1 @@
-# Laboratorio07_BD2
+# BD2_Informe-Sesi-n-de-Laboratorio-N-07
